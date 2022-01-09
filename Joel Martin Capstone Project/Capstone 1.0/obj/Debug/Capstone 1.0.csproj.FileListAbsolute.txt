@@ -1,0 +1,66 @@
+C:\Users\phyl lustgarten\Documents\Web Applications\Project 1.0\Capstone 1.0\Capstone 1.0\bin\Debug\Capstone 1.0.exe.config
+C:\Users\phyl lustgarten\Documents\Web Applications\Project 1.0\Capstone 1.0\Capstone 1.0\bin\Debug\Capstone 1.0.exe
+C:\Users\phyl lustgarten\Documents\Web Applications\Project 1.0\Capstone 1.0\Capstone 1.0\bin\Debug\Capstone 1.0.pdb
+C:\Users\phyl lustgarten\Documents\Web Applications\Project 1.0\Capstone 1.0\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.AssemblyReference.cache
+C:\Users\phyl lustgarten\Documents\Web Applications\Project 1.0\Capstone 1.0\Capstone 1.0\obj\Debug\Capstone_1._0.Properties.Resources.resources
+C:\Users\phyl lustgarten\Documents\Web Applications\Project 1.0\Capstone 1.0\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.GenerateResource.cache
+C:\Users\phyl lustgarten\Documents\Web Applications\Project 1.0\Capstone 1.0\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.CoreCompileInputs.cache
+C:\Users\phyl lustgarten\Documents\Web Applications\Project 1.0\Capstone 1.0\Capstone 1.0\obj\Debug\Capstone 1.0.exe
+C:\Users\phyl lustgarten\Documents\Web Applications\Project 1.0\Capstone 1.0\Capstone 1.0\obj\Debug\Capstone 1.0.pdb
+C:\Users\phyl lustgarten\Documents\Web Applications\Project 1.0\Capstone 1.0\Capstone 1.0\obj\Debug\Capstone_1._0.Form1.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project 1.0\Capstone 1.0\Capstone 1.0\bin\Debug\Capstone 1.0.exe.config
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project 1.0\Capstone 1.0\Capstone 1.0\bin\Debug\Capstone 1.0.exe
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project 1.0\Capstone 1.0\Capstone 1.0\bin\Debug\Capstone 1.0.pdb
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project 1.0\Capstone 1.0\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.AssemblyReference.cache
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project 1.0\Capstone 1.0\Capstone 1.0\obj\Debug\Capstone_1._0.Form1.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project 1.0\Capstone 1.0\Capstone 1.0\obj\Debug\Capstone_1._0.Properties.Resources.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project 1.0\Capstone 1.0\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.GenerateResource.cache
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project 1.0\Capstone 1.0\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.CoreCompileInputs.cache
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project 1.0\Capstone 1.0\Capstone 1.0\obj\Debug\Capstone 1.0.exe
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project 1.0\Capstone 1.0\Capstone 1.0\obj\Debug\Capstone 1.0.pdb
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.2\Capstone 1.0\bin\Debug\Capstone 1.0.exe.config
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.2\Capstone 1.0\bin\Debug\Capstone 1.0.exe
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.2\Capstone 1.0\bin\Debug\Capstone 1.0.pdb
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.2\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.AssemblyReference.cache
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.2\Capstone 1.0\obj\Debug\Capstone_1._0.Form1.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.2\Capstone 1.0\obj\Debug\Capstone_1._0.Properties.Resources.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.2\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.GenerateResource.cache
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.2\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.CoreCompileInputs.cache
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.2\Capstone 1.0\obj\Debug\Capstone 1.0.exe
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.2\Capstone 1.0\obj\Debug\Capstone 1.0.pdb
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.2\Capstone 1.0\obj\Debug\Capstone_1._0.Form2.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.4\Capstone 1.0\bin\Debug\Capstone 1.0.exe.config
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.4\Capstone 1.0\bin\Debug\Capstone 1.0.exe
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.4\Capstone 1.0\bin\Debug\Capstone 1.0.pdb
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.4\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.AssemblyReference.cache
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.4\Capstone 1.0\obj\Debug\Capstone_1._0.Form1.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.4\Capstone 1.0\obj\Debug\Capstone_1._0.Form2.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.4\Capstone 1.0\obj\Debug\Capstone_1._0.Properties.Resources.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.4\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.GenerateResource.cache
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.4\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.CoreCompileInputs.cache
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.4\Capstone 1.0\obj\Debug\Capstone 1.0.exe
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.4\Capstone 1.0\obj\Debug\Capstone 1.0.pdb
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.5\Capstone 1.0\bin\Debug\Capstone 1.0.exe.config
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.5\Capstone 1.0\bin\Debug\Capstone 1.0.exe
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.5\Capstone 1.0\bin\Debug\Capstone 1.0.pdb
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.5\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.AssemblyReference.cache
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.5\Capstone 1.0\obj\Debug\Capstone_1._0.Form1.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.5\Capstone 1.0\obj\Debug\Capstone_1._0.Form2.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.5\Capstone 1.0\obj\Debug\Capstone_1._0.Properties.Resources.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.5\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.GenerateResource.cache
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.5\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.CoreCompileInputs.cache
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.5\Capstone 1.0\obj\Debug\Capstone 1.0.exe
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.5\Capstone 1.0\obj\Debug\Capstone 1.0.pdb
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.5\Capstone 1.0\obj\Debug\Capstone_1._0.Form3.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.6\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.AssemblyReference.cache
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.6\Capstone 1.0\obj\Debug\Capstone_1._0.Form1.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.6\Capstone 1.0\obj\Debug\Capstone_1._0.Form2.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.6\Capstone 1.0\obj\Debug\Capstone_1._0.Form3.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.6\Capstone 1.0\obj\Debug\Capstone_1._0.Properties.Resources.resources
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.6\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.GenerateResource.cache
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.6\Capstone 1.0\obj\Debug\Capstone 1.0.csproj.CoreCompileInputs.cache
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.6\Capstone 1.0\obj\Debug\Capstone 1.0.exe
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.6\Capstone 1.0\obj\Debug\Capstone 1.0.pdb
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.6\Capstone 1.0\bin\Debug\Capstone 1.0.exe.config
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.6\Capstone 1.0\bin\Debug\Capstone 1.0.exe
+C:\Users\phyl lustgarten\Documents\Professional Dev. in Computer Science\Project\Capstone 1.6\Capstone 1.0\bin\Debug\Capstone 1.0.pdb
