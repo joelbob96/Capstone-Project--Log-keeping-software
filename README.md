@@ -16,7 +16,7 @@ The user is meant to enter data into the text boxes, and add officers to the log
 
 ![Add Officers page](Images/AddOfficersPage.png)
 
-User's simple enter the new officer's first name, last name, and badge number into the boxes, and press "Add" to add the officer to the box below. Officer's can also be removed with the "Remove Officer" botton next to their right. The light blue box represents the contents of the "Officers.csv" file. No changes will be commited to the file unless the "Save Changes" button is pressed. 
+User's simply enter the new officer's first name, last name, and badge number into the boxes, and press "Add" to add the officer to the box below. Officer's can also be removed with the "Remove Officer" botton next to their right. The light blue box represents the contents of the "Officers.csv" file. No changes will be commited to the file unless the "Save Changes" button is pressed. 
 
 #### The "Load Call" page
 
